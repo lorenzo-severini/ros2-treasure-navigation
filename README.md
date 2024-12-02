@@ -27,7 +27,7 @@ A complete and corrected house map saved for future use in robot navigation.
    - Create a ROS2 service to handle navigation commands for the **Turtlebot3**, such as navigating between waypoints or to a predefined exit.
    - Implement a feedback logic to report if the command was completed successfully or encountered any issues.
 2. **Service Client**:
-   - Develop a client that sends commands to the server and receives responses, such as "Patrol" or "Go to the exit".
+   - Develop a client that sends commands to the server and receives responses, such as "Patrol" or "GoToExit".
    - Handle the responses to provide feedback to the user on whether the command was successful.
 
 ## Task 3: Treasure Hunt Script
