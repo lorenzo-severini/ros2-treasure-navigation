@@ -4,7 +4,7 @@ This repository contains ROS2 packages for controlling a TurtleBot3 in a Gazebo 
 
 ---
 
-## Task 1: Mapping the House
+## Mapping the House
 
 **Objective**: Create a detailed map of a simulated house environment using Turtlebot3 in the **Gazebo** simulator.
 
@@ -18,7 +18,7 @@ This repository contains ROS2 packages for controlling a TurtleBot3 in a Gazebo 
 ### Result:
 A complete and corrected house map saved for future use in robot navigation.
 
-## Task 2: Command Service and Test Client
+## Command Service and Test Client
 
 **Objective**: Create a service in ROS2 to handle specific navigation commands (e.g., "Patrol" and "Go to the exit") and a client to test the service.
 
@@ -30,7 +30,7 @@ A complete and corrected house map saved for future use in robot navigation.
    - Develop a client that sends commands to the server and receives responses, such as "Patrol" or "GoToExit".
    - Handle the responses to provide feedback to the user on whether the command was successful.
 
-## Task 3: Treasure Hunt Script
+## Treasure Hunt Script
 
 **Objective**: Implement a treasure hunt script that guides the robot towards the treasure based on distance data from the **/distanciaTesoro** topic.
 
