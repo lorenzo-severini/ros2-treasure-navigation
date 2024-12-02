@@ -16,7 +16,12 @@ This repository contains ROS2 packages for controlling a TurtleBot3 in a Gazebo 
 5. Correct any errors in the map using an editing program like **GIMP**.
 
 ### Result:
-A complete and corrected house map saved for future use in robot navigation.
+
+![Mapped house](https://github.com/lorenzo-severini/ros2-treasure-navigation/blob/main/ros2_navigation_control/ros2_navigation_control/house_map.pgm)
+
+Above there is the complete and corrected house map saved and edited for future use in robot navigation.
+
+
 
 ## Command Service and Test Client
 
