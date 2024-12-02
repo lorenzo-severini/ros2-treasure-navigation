@@ -68,7 +68,7 @@ To install the custom `.deb` package for the treasure hunt functionality, follow
 
 This will install the `tesoro_pkg` package and allow you to use the treasure hunt functionality in your ROS2 environment.
 
----
+
 
 ## Building the ROS2 Workspace
 If you need to build the ROS2 packages locally, you can do so using `colcon`. First, clone the repository and set up your workspace:
@@ -85,9 +85,10 @@ colcon build
 source install/setup.bash
 ```
 
----
+
 
 ## Running the ROS2 Nodes
+
 
 ### 1. Launching the navigation through waypoints
 
@@ -111,7 +112,6 @@ ros2 launch turtlebot3_navigation2 navigation2.launch.py use_sim_time:=True map:
 ros2 launch ros2_navigation_control navigation.launch.py
 ```
 
-___
 
 ### 2. Launching the treasure hunt
 
@@ -147,20 +147,17 @@ ros2 run ros2_navigation_control treasure_hunt
 
 This project demonstrates the use of ROS2 for controlling the TurtleBot3 in a Gazebo simulation, providing both a navigation control system and a treasure hunt simulation. The integration of ROS2's navigation stack (Nav2) allows for the robot's autonomous navigation, and the treasure hunt functionality provides a fun and interactive exploration task for the robot.
 
----
 
 ## Authors
 
 * [lorenzo-severini](https://github.com/lorenzo-severini): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
 * [David-Z2812](https://github.com/david-z2812): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
 
----
 
 ## Credits
 
 * [euivmar](https://github.com/euivmar) for the development of the 'busquedaTesoro' package, which provides the treasure hunt functionality.
 
----
 
 ## License
 
