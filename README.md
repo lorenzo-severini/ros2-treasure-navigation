@@ -155,8 +155,8 @@ This project demonstrates the use of ROS2 for controlling the TurtleBot3 in a Ga
 
 ## Authors
 
-* [lorenzo-severini](https://github.com/lorenzo-severini): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
-* [David-Z2812](https://github.com/david-z2812): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
+* [Lorenzo Severini](https://github.com/lorenzo-severini): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
+* [David Zipperstein](https://github.com/david-z2812): Co-creator and developer of the ROS2 navigation and treasure hunt functionality.
 
 
 ## Credits
