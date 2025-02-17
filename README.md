@@ -161,7 +161,7 @@ This project demonstrates the use of ROS2 for controlling the TurtleBot3 in a Ga
 
 ## Credits
 
-* [Eugenio Ivorra Martínez](https://github.com/euivmar) for the development of the 'busquedaTesoro' package, which provides the treasure hunt functionality.
+* [Eugenio Ivorra Martínez](https://github.com/euivmar): development of the 'busquedaTesoro' package, which provides the treasure hunt functionality.
 
 
 ## License
